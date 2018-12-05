@@ -1,0 +1,16 @@
+{
+  "name": "language-sablecc-textmate",
+  "version": "0.0.1",
+  "description": "This is a minimalistic syntax definition to get some different colors when editing the grammar.",
+  "keywords": [
+    "language",
+    "grammar",
+    "sablecc",
+    "sable"
+  ],
+  "repository": "https://github.com/atom/language-sablecc-textmate",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

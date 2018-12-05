@@ -1,0 +1,28 @@
+'scopeName': 'source.sable'
+'name': 'sable'
+'fileTypes': [
+  'scc'
+  'sablecc'
+]
+'patterns': [
+  {
+    'match': 'Package|Helpers|Tokens|Productions|Ignored Tokens|Abstract Syntax Tree'
+    'name': 'constant.other.sable'
+  }
+  {
+    'match': '(?://.*)'
+    'name': 'comment.line.double-slash.sable'
+  }
+  {
+    'match': '(?:\{\S+\})'
+    'name': 'support.class.sable'
+  }
+  {
+    'match': '(?:\[\S+\])'
+    'name': 'support.function.sable'
+  }
+  {
+    'match': '(?:\{ -&gt; .*\})'
+    'name': 'constant.character.sable'
+  }
+]

@@ -1,6 +1,6 @@
 {
   "name": "language-sablecc-textmate",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Atom port of a SableCC grammar for Textmate / Sublime",
   "keywords": [
     "language",
